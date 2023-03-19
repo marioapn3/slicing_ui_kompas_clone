@@ -1,6 +1,12 @@
 # kompas_clone_mario
 
-A new Flutter project.
+Slicing UI KOMPAS CLONE
+
+##How to instal this example flutter clone project on ur device.
+
+1. clone this project
+2. Run flutter pub get to install all dependencies 
+3. Run this project on your emulator / you can use google chrome as ur emulator
 
 ## Getting Started
 
